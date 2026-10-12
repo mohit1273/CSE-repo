@@ -1,3 +1,3 @@
 # CSE-repo
 This is my repo for CS batch 2026.
-Author- Mohit
+Author- Mohit Kumar Chaurasia
